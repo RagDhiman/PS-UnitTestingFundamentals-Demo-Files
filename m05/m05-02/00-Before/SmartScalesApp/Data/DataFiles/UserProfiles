@@ -1,0 +1,5 @@
+UserID,UserName,HeightMeasure,WeightMeasure,HeightInCMs,StartingWeightInPounds
+0eeef03c-20d9-4f56-8432-9e33c94c5a5c,Bill,Feet,Stones,179.832,222.6
+2c9fbcf8-5b58-490b-81a1-c853b7bd874b,Pete,Feet,Stones,179.832,175.0
+45cee864-2331-489b-841a-cd8b0cfbfa29,Bob,Inches,Stones,508.00,154
+a0df1ece-c9ff-493d-add4-3ff462cedcd8,Test,Feet,Stones,155.4480,210
